@@ -24,6 +24,8 @@ body {
     color: rgb(9, 85, 171);
 }
 .text{
-    border:2cm solid rgb(0, 0, 0);
+    border:2px solid rgb(0, 0, 0);
     border-radius: 10px;
+    color: rgb(165, 31, 31);
+
 }
